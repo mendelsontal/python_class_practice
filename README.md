@@ -1,4 +1,4 @@
-[![Test](https://img.shields.io/badge/Python%20class%20practice-8A2BE2)]([https://](https://img.shields.io/badge/Python%20class%20practice-8A2BE2)) [![GitHub contributors](https://img.shields.io/github/contributors/mendelsontal/python_class_practice)](https://github.com/mendelsontal/python_class_practice/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/coderjojo/creative-profile-readme/issues)
+[![Test](https://img.shields.io/badge/Python%20class%20practice-8A2BE2)]([https://](https://img.shields.io/badge/Python%20class%20practice-8A2BE2)) [![GitHub contributors](https://img.shields.io/github/contributors/mendelsontal/python_class_practice)](https://github.com/mendelsontal/python_class_practice/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/mendelsontal/python_class_practice/issues)
 # Python Class Task
 <!-- ABOUT THE PROJECT -->
 ## 📌 Project Overview
@@ -14,8 +14,10 @@ This project is designed to help developers work collaboratively on a shared rep
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<!-- CONTRIBUTING -->
-## Contributing
+<!-- CONTRIBUTERS -->
+## 👥 Contributers
+* [Baruch](https://github.com/baruchgu)
+* [Tal](https://github.com/mendelsontal)
 
 <!-- LICENSE -->
 ## License
