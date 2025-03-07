@@ -1,17 +1,14 @@
 #!/usr/bin/env python3
 ############################################################
 # Developed by: Tal & Baruch 
-# Description:
+# Description: try and play with project structure and module import
 # Date:07/03/2025                                                                                                                                   #
-# Version: 0.0.1
+# Version: 1.0.1
 ############################################################
 
-import os
-import sys
-import time
+import os, sys, time
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
-
 from src.lib import lib
 
 user_name = input('[?] Please provide name, habibi: ')
