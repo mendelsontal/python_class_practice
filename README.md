@@ -10,7 +10,7 @@ This project is designed to help developers work collaboratively on a shared rep
   📂 src/
  - ├── 📂 srv/          # Main application folder (Python files)
  - ├── 📂 lib/          # Library folder for additional features
- - ├── 📜 env_verify.sh # Shell script to verify environment requirements
+ - ├── 📜 [env_verify.sh](src/env_verify.sh) # Shell script to verify environment requirements
 
 <!-- GETTING STARTED -->
 ## Getting Started
