@@ -4,13 +4,22 @@
 ## 📌 Project Overview
 This project is designed to help developers work collaboratively on a shared repository while practicing communication, planning, and version control with Git and GitHub.
 
+- [Task](./task.md)
+<!-- FOLDER STRACTURE -->
+## 📁 Folder Structure
+  📂 src/
+ - ├── 📂 srv/          # Main application folder (Python files)
+ - ├── 📂 lib/          # Library folder for additional features
+ - ├── 📜 env_verify.sh # Shell script to verify environment requirements
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
+
 <!-- Installation -->
 ## Installation
-
-
+- [Installation](./install.md)
+  
 <!-- USAGE EXAMPLES -->
 ## Usage
 
