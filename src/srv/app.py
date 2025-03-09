@@ -10,11 +10,6 @@ import os, sys, time
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
-import os
-import sys
-import time
-
-sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 from src.lib import lib
 
 user_name = input('[?] Please provide name, habibi: ')
