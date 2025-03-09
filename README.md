@@ -15,9 +15,9 @@ This project is designed to help developers work collaboratively on a shared rep
   - **📂 <span style="display: inline-block; margin-right: 20px;">[src/](./src)</span>** Configuration files  
     - 📜 <span style="display: inline-block; margin-right: 20px;">[env_verify.sh](./src/env_verify.sh)</span>   Shell script to verify environment requirements
         - **📂 <span style="display: inline-block; margin-right: 20px;">[srv/](./src/srv)</span>** Main application folder (Python files)
-            - 📜 <span style="display: inline-block; margin-right: 20px;">[lib.py](./src/src/lib.py)</span> 
+            - 📜 <span style="display: inline-block; margin-right: 20px;">[app.py](./src/srv/app.py)</span> 
         - **📂 <span style="display: inline-block; margin-right: 20px;">[lib/](./src/lib)</span>** Library folder for additional features
-            - 📜 <span style="display: inline-block; margin-right: 20px;">[app.py](./src/lib/app.py)</span> 
+            - 📜 <span style="display: inline-block; margin-right: 20px;">[lib.py](./src/lib/lib.py)</span> 
 
 <!-- GETTING STARTED -->
 ## Getting Started
