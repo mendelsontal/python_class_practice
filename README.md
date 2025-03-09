@@ -7,10 +7,17 @@ This project is designed to help developers work collaboratively on a shared rep
 - [Task](./task.md)
 <!-- FOLDER STRACTURE -->
 ## 📁 Folder Structure
-  📂 src/
- - ├── 📂 srv/          # Main application folder (Python files)
- - ├── 📂 lib/          # Library folder for additional features
- - ├── 📜 [env_verify.sh](src/env_verify.sh) # Shell script to verify environment requirements
+- **📁 <span style="display: inline-block; margin-right: 20px;">[python_class_practice/](./)</span>** Root directory  
+  - 📄 <span style="display: inline-block; margin-right: 20px;">[README.md](./README.md)</span> Project overview, usage.
+  - 📄 <span style="display: inline-block; margin-right: 20px;">[task.md](./task.md)</span> Contains the task description
+  - 📄 <span style="display: inline-block; margin-right: 20px;">[install.md](./install.md)</span> Contains the installation description
+  - 📜 <span style="display: inline-block; margin-right: 20px;">[__init__.py](./__init__.py)</span>   import lib
+  - **📂 <span style="display: inline-block; margin-right: 20px;">[src/](./src)</span>** Configuration files  
+    - 📜 <span style="display: inline-block; margin-right: 20px;">[env_verify.sh](./src/env_verify.sh)</span>   Shell script to verify environment requirements
+        - **📂 <span style="display: inline-block; margin-right: 20px;">[srv/](./src/srv)</span>** Main application folder (Python files)
+            - 📜 <span style="display: inline-block; margin-right: 20px;">[lib.py](./src/src/lib.py)</span> 
+        - **📂 <span style="display: inline-block; margin-right: 20px;">[lib/](./src/lib)</span>** Library folder for additional features
+            - 📜 <span style="display: inline-block; margin-right: 20px;">[app.py](./src/lib/app.py)</span> 
 
 <!-- GETTING STARTED -->
 ## Getting Started
